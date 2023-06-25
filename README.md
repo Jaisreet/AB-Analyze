@@ -28,13 +28,12 @@ To use AB-Analyze, follow these steps:
 
 1. Ensure you have Python 3 installed on your system.
 2. Clone the AB-Analyze repository to your local machine.
-3. Install the necessary dependencies by running `pip install -r requirements.txt`.
-4. Run the `ab_analysis.py` script, providing the path to the `searches.json` file as a command-line argument.
+3. Run the `ab_analysis.py` script, providing the path to the `searches.json` file as a command-line argument.
    ```
    python ab_analysis.py searches.json
    ```
-5. The program will perform the A/B analysis and display the p-values for search feature engagement and search frequency differences.
-6. Review the output and interpret the results to draw conclusions about the impact of the new design on user search behavior.
+4. The program will perform the A/B analysis and display the p-values for search feature engagement and search frequency differences.
+5. Review the output and interpret the results to draw conclusions about the impact of the new design on user search behavior.
 
 ### Results
 
